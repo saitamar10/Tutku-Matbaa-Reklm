@@ -4,7 +4,7 @@
 ![Digital Business Landing Page](preview.png)
 
 ## Overview
-Welcome to a Digital Business Website project! In this project, I created a sophisticated and responsive business website using React and Next.js. My focus was on employing best practices in React, creating an engaging UI with pure CSS, and implementing advanced features to elevate my development skills.
+Welcome to NEXAVISTA MARKETING, a sophisticated and responsive business website crafted using React and Next.js. In this project, my primary focus was on implementing best practices in React, designing an engaging UI with pure CSS, and incorporating advanced features to enhance my development skills.
 
 ## Features
 
