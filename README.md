@@ -4,7 +4,7 @@
 ![Digital Business Landing Page](preview.png)
 
 ## Overview
-Welcome to a Digital Business Website project! In this project, I created a sophisticated and responsive business website using React and Next.js. My focus was on employing best practices in React, creating an engaging UI with pure CSS, and implementing advanced features to elevate your development skills.
+Welcome to a Digital Business Website project! In this project, I created a sophisticated and responsive business website using React and Next.js. My focus was on employing best practices in React, creating an engaging UI with pure CSS, and implementing advanced features to elevate my development skills.
 
 ## Features
 
