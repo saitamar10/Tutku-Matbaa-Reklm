@@ -9,11 +9,11 @@ const Testimonials = () => {
         <div className="container">
           <div className="t-container">
             <div className="t-head">
-              <span className="tag">Testimonials</span>
+              <span className="tag">Hizmetlerimiz</span>
               <span className="title">
-                Access capital that complements traditional funding options
+                Hayalinizdeki projeyi 'Hayalden Baskıya' sloganıyla, tüm süreçleri yöneterek gerçeğe dönüştürüyoruz.
               </span>
-              <div className="des">What people say about us</div>
+              <div className="des">ürünlerimiz.</div>
             </div>
           </div>
           <SlickSlider />
