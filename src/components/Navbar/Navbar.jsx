@@ -24,7 +24,7 @@ const Navbar = () => {
           {/* left side log */}
           <div className="n-logo">
             <Link to="h-wrapper" spy={true} smooth={true}>
-              <span>NEXAVISTA MARKETING</span>
+              <span>TUTKU MATBAA REKLAM</span>
             </Link>
           </div>
 
@@ -33,29 +33,29 @@ const Navbar = () => {
             {/* menu */}
             <div className="n-menu">
               <Link to="wwd-wrapper" spy={true} smooth={true}>
-                <span>What we do</span>
+                <span>Neler Yapıyoruz</span>
               </Link>
               <Link to="hiw-wrapper" spy smooth offset={100}>
-                <span>How it works</span>
+                <span>Hakkımızda</span>
               </Link>
               <Link to="wwi-wrapper" spy smooth>
-                <span>Who we invest in </span>
+                <span>Ürünlerimiz </span>
               </Link>
               <Link to="t-wrapper" spy smooth offset={100}>
-                <span>Testimonials</span>
+                <span>Müşterilerimiz Ne Diyor</span>
               </Link>
             </div>
 
             {/* button */}
             <div className="fund-button">
-              <span>Get Funded</span>
+              <span>Bize Ulaş</span>
             </div>
           </div>
         </div>
       </div>
       {/* for mobile */}
       <div className="nm-container">
-        <span>NEXAVISTA MARKETING</span>
+        <span>TUTKU MATBAA REKLAM</span>
 
         {/* menu icons */}
         <div className="menu-icon">
